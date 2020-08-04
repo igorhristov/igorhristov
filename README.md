@@ -28,6 +28,7 @@
 <img align="left" alt="ES6" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="npm" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" />
 <img align="left" alt="express" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png"/>
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Mongoose" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png" />
