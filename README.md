@@ -44,7 +44,7 @@
 <br />
 
 
-<img align="left" alt="igorhristov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=igorhristov&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="igorhristov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=igorhristov&show_icons=true&hide_border=true" />
 
 [website]: https://igorhristov.github.io/RitualBeauty/
 [twitter]: https://twitter.com/Igor_Hristov_
