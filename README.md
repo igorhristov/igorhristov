@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father and Developer!
 
--   🔭 I’m currently working on a [beauty website app][igorhristov/RitualBeauty]!
+-   🔭 I’m currently working on a [beauty website app][website]!
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate with other content creators
 -   🥅 2020 Goals: Learn and master MERN stack
@@ -34,7 +34,7 @@
 
 <img align="left" alt="igorhristov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=igorhristov&show_icons=true&hide_border=true" />
 
-[website]: https://igorhr.github.io
+[website]: https://igorhristov.github.io/RitualBeauty/
 [twitter]: https://twitter.com/Igor_Hristov_
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
