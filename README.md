@@ -29,8 +29,6 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
-
 
 <img align="left" alt="igorhristov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=igorhristov&show_icons=true&hide_border=true" />
 
