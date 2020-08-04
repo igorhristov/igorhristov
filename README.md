@@ -26,7 +26,7 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/FransLopez/logo-images/blob/master/logos/bootstrap.png" />
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="ES6" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" />
 <img align="left" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="npm" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" />
 <img align="left" alt="express" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png"/>
