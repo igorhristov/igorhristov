@@ -41,3 +41,5 @@
 ![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=igorhristov.github.profile)
 
 ---
+
+[website]: https://igorhristov.github.io/RitualBeauty/
