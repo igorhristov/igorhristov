@@ -11,7 +11,6 @@
 ### Connect with me:
 
 
-[<img align="left" alt="igorhristov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="igorhristov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -47,7 +46,6 @@
 <img align="left" alt="igorhristov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=igorhristov&show_icons=true&hide_border=true" />
 
 [website]: https://igorhristov.github.io/RitualBeauty/
-[twitter]: https://twitter.com/Igor_Hristov_
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/igor-hristov/
