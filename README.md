@@ -1,18 +1,20 @@
-### Hi there, I'm Igor  👋
+ ##  Hi there, I'm Igor  👋
 
 ## I'm a Husband, Father and Developer!
 
--   🔭 I’m currently working on a [beauty website app][website]!
+
+-   ⚡ I’m currently working on a [beauty website app][website]!
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate with other content creators
 -   🥅 2020 Goals: Master MERN Stack
--   ⚡ Fun fact: I love astronomy 🔭
+-  💬 Ask me about anything and everything 
+-   🔭 Fun fact: I love astronomy 🔭
 
-### Connect with me:
+<br />
 
+### 📫 How to reach me:
 
-[<img align="left" alt="igorhristov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-hristov)](https://www.linkedin.com/in/igor-hristov/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hristovigor@gmail.com)](mailto:hristovigor@gmail@gmail.com)
 
 <br />
 
@@ -35,10 +37,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
-<br />
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorhristov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br />
 
