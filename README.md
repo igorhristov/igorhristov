@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-[<code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>](https://code.visualstudio.com/)
+[<code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>](https://github.com/igorhristov/javaScript/tree/master/WebsitesCodeTrain/)
 [<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>](https://igorhr.github.io/portfolio/htmlCSS/academy/homework/homework-7/index.html)
 [<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></code>](https://igorhr.github.io/portfolio/htmlCSS/academy/homework/tributePage/index.html)
 [<code><img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>](https://github.com/igorhristov/cart-app)
