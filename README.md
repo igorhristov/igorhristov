@@ -18,18 +18,18 @@
 ### Languages and Tools:
 
 [<code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>](https://github.com/igorhristov/javaScript/tree/master/WebsitesCodeTrain/)
-[<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>](https://igorhr.github.io/portfolio/htmlCSS/academy/homework/homework-7/index.html)
-[<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></code>](https://igorhr.github.io/portfolio/htmlCSS/academy/homework/tributePage/index.html)
+[<code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></code>](https://igorhr.github.io/portfolio/htmlCSS/academy/homework/homework-7/index.html)
+[<code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>](https://igorhr.github.io/portfolio/htmlCSS/academy/homework/tributePage/index.html)
 [<code><img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>](https://github.com/igorhristov/cart-app)
 [<code><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/></code>](https://igorhr.github.io/)
 [<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>](https://github.com/igorhristov/javaScript)
 [<code><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>](https://react-blog-igor.herokuapp.com/)
 [<code><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/></code>](https://github.com/igorhristov/legendary-devs/)
-[<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/></code>](https://igorfullstack.herokuapp.com/)
+[<code><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></code>](https://igorfullstack.herokuapp.com/)
 [<code><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/></code>](https://github.com/igorhristov/legendary-devs)
 [<code>	<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></code>](https://github.com/igorhristov/legendary-devs)
-[<code><img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>](https://github.com/igorhristov)
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></code>
+[<code><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>](https://github.com/igorhristov)
+<code>	<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/></code>
 
 <br/>
