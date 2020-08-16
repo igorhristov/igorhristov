@@ -24,7 +24,7 @@
 [<code><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/></code>](https://igorhr.github.io/)
 [<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>](https://github.com/igorhristov/javaScript)
 [<code><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>](https://react-blog-igor.herokuapp.com/)
-[<code><img height="26" src="https://github.com/reduxjs/redux/blob/master/logo/logo.png"/></code>](https://github.com/igorhristov/legendary-devs/)
+[<code><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/></code>](https://github.com/igorhristov/legendary-devs/)
 [<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/></code>](https://igorfullstack.herokuapp.com/)
 [<code><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/></code>](https://github.com/igorhristov/legendary-devs)
 [<code>	<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></code>](https://github.com/igorhristov/legendary-devs)
