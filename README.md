@@ -26,7 +26,7 @@
 [<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></code>](https://react-blog-igor.herokuapp.com/)
 [<code><img height="26" src="https://github.com/reduxjs/redux/blob/master/logo/logo.png"/></code>](https://github.com/igorhristov/legendary-devs/)
 [<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/></code>](https://igorfullstack.herokuapp.com/)
-[<code><img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code>](https://github.com/igorhristov/legendary-devs)
+[<code><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/></code>](https://github.com/igorhristov/legendary-devs)
 [<code>	<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></code>](https://github.com/igorhristov/legendary-devs)
 [<code><img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>](https://github.com/igorhristov)
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></code>
