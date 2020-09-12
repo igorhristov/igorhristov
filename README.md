@@ -4,7 +4,7 @@
 
 -   ⚡ I’m currently working on a [beauty website app][website]!
 -   🌱 I’m currently learning everything 🤣
--   👯 I’m looking to collaborate with other content creators
+-   👯 I’m looking to expand my knowledge and skills
 -   🥅 2020 Goals: Master MERN Stack
 -   💬 Ask me about anything and everything
 -   🔭 Fun fact: I love astronomy
