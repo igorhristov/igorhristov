@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father and Developer!
 
--   ⚡ I’m currently working on a [beauty website app][website]!
+-   ⚡ I’m currently working on a [portfolio gatsby app][website]!
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to expand my knowledge and skills
 -   🥅 2020 Goals: Learn MERN Stack
@@ -44,4 +44,4 @@
 
 ---
 
-[website]: https://igorhristov.github.io/RitualBeauty/
+[website]: https://igorhristov.github.io
