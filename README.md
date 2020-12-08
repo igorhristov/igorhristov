@@ -3,9 +3,9 @@
 ## I'm a Husband, Father and Developer!
 
 -   ⚡ I’m currently working on a [portfolio gatsby app][website]!
--   🌱 I’m currently learning everything 🤣
--   👯 I’m looking to expand my knowledge and skills
--   🥅 2020 Goals: Learn MERN Stack
+-   🌱 I’m Full-time learner 
+-   👯 I’m looking always to expand my knowledge and skills
+-   🥅 2021 Goals: Find full time Web Developer Work
 -   💬 Ask me about anything and everything
 -   🔭 Fun fact: I love astronomy
 
