@@ -11,26 +11,27 @@
 
 ### 📫 Connect with Me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-hristov)](https://www.linkedin.com/in/igor-hristov/) [![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/igorhristov.me/)](https://www.instagram.com/igorhristov.me/) [![twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/igorhristov_me)](https://twitter.com/igorhristov_me)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-hristov)](https://www.linkedin.com/in/igor-hristov/)
+[![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/igorhristov.me/)](https://www.instagram.com/igorhristov.me/)
+[![twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/igorhristov_me)](https://twitter.com/igorhristov_me)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/igorhristov)](https://github.com/igorhristov)
 
 <br />
 
 ### Languages and Tools:
 
-[<code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>](https://github.com/igorhristov/javaScript/tree/master/WebsitesCodeTrain/)
-[<code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></code>](https://igorhr.github.io/portfolio/htmlCSS/academy/homework/homework-7/index.html)
-[<code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>](https://igorhr.github.io/portfolio/htmlCSS/academy/homework/tributePage/index.html)
-[<code><img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>](https://github.com/igorhristov/cart-app)
-[<code><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/></code>](https://igorhr.github.io/)
-[<code><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></code>](https://github.com/igorhristov/javaScript)
-[<code><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>](https://react-blog-igor.herokuapp.com/)
-[<code><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/></code>](https://github.com/igorhristov/legendary-devs/)
-[<code><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></code>](https://igorfullstack.herokuapp.com/)
-[<code><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/></code>](https://github.com/igorhristov/legendary-devs)
-[<code>	<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></code>](https://github.com/igorhristov/legendary-devs)
-[<code><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>](https://github.com/igorhristov)
-<code>	<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/></code>
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://igorhr.github.io/portfolio/htmlCSS/academy/homework/homework-7/index.html)](https://igorhr.github.io/portfolio/htmlCSS/academy/homework/homework-7/index.html)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://igorhr.github.io/portfolio/htmlCSS/academy/homework/tributePage/index.html)](https://igorhr.github.io/portfolio/htmlCSS/academy/homework/tributePage/index.html)
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://igorhr.github.io/)](https://igorhr.github.io/)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://github.com/igorhristov/javaScript)](https://github.com/igorhristov/javaScript)
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://react-blog-igor.herokuapp.com/)](https://react-blog-igor.herokuapp.com/)
+[![Gatsby Badge](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&link=https://igorhristov.me/)](https://igorhristov.me/)
+[![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&link=https://igorfullstack.herokuapp.com/)](https://igorfullstack.herokuapp.com/)
+[![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&link=https://igorfullstack.herokuapp.com/)](https://igorfullstack.herokuapp.com/)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://igorfullstack.herokuapp.com/)](https://igorfullstack.herokuapp.com/)
+[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&link=https://igor-utility.netlify.app/)](https://igor-utility.netlify.app/)
+[![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&link=https://igorfullstack.herokuapp.com/)](https://igorfullstack.herokuapp.com/)
+[![Git Badge](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&link=https://igorfullstack.herokuapp.com/)](https://igorfullstack.herokuapp.com/)
 
 <br/>
 
