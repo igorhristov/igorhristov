@@ -36,6 +36,7 @@
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&link=https://igor-utility.netlify.app/)](https://igor-utility.netlify.app/)
 [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&link=https://igorfullstack.herokuapp.com/)](https://igorfullstack.herokuapp.com/)
 [![Git Badge](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&link=https://igorfullstack.herokuapp.com/)](https://igorfullstack.herokuapp.com/)
+[![Markdown Badge](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white&link=https://github.com/igorhristov)](https://github.com/igorhristov)
 
 [![illustrator Badge](https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white&link=https://github.com/igorhristov)](https://github.com/igorhristov)
 [![illustrator Badge](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white&link=https://github.com/igorhristov)](https://github.com/igorhristov)
