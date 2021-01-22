@@ -29,6 +29,7 @@
 [![Gatsby Badge](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&link=https://igorhristov.me/)](https://igorhristov.me/) 
 [![GrpahQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&link=https://igorhristov.me/)](https://igorhristov.me/) 
 [![Styled Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&link=https://igorhristov.me/)](https://igorhristov.me/)
+[![Sass Badge](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white&link=https://igorhristov.me/)](https://igorhristov.me/)
 [![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&link=https://igorfullstack.herokuapp.com/)](https://igorfullstack.herokuapp.com/)
 [![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&link=https://igorfullstack.herokuapp.com/)](https://igorfullstack.herokuapp.com/)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://igorfullstack.herokuapp.com/)](https://igorfullstack.herokuapp.com/)
