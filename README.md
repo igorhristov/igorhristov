@@ -24,6 +24,7 @@
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://igorhr.github.io/portfolio/htmlCSS/academy/homework/tributePage/index.html)](https://igorhr.github.io/portfolio/htmlCSS/academy/homework/tributePage/index.html)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://igorhr.github.io/)](https://igorhr.github.io/)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://github.com/igorhristov/javaScript)](https://github.com/igorhristov/javaScript)
+[![TypeScrypt Badge](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/igorhristov/projects/todo-angular/frontend/)](https://github.com/igorhristov/projects/todo-angular/frontend)
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://react-blog-igor.herokuapp.com/)](https://react-blog-igor.herokuapp.com/) 
 [![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&link=https://react-blog-igor.herokuapp.com/)](https://react-blog-igor.herokuapp.com/) 
 [![Gatsby Badge](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&link=https://igorhristov.me/)](https://igorhristov.me/) 
