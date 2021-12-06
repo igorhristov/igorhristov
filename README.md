@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father and Developer!
 
--   ⚡ I’m currently working on a [restaurant website][website]!
+-   ⚡ I’m currently working at [Megantic][website]!
 -   🌱 I’m Full-time learner 
 -   👯 I’m looking always to expand my knowledge and skills
 -   🥅 2021 Goals: Find full time Web Developer Work
@@ -56,4 +56,4 @@
 
 ---
 
-[website]: https://kancona.netlify.app
+[website]: https://www.megantic.com.au/
