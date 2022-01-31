@@ -5,7 +5,7 @@
 -   ⚡ I’m currently working at [Megantic][website]!
 -   🌱 I’m Full-time learner 
 -   👯 I’m looking always to expand my knowledge and skills
--   🥅 2021 Goals: Find full time Web Developer Work
+-   🥅 2022 Goals: Learn Build Learn
 -   💬 Ask me about anything and everything
 -   🔭 Fun fact: I love astronomy
 
