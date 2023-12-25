@@ -2,10 +2,10 @@
 
 ## I'm a Husband, Father and Developer!
 
--   ⚡ I’m currently working at [⋮IWConnect][website]!
+-   ⚡ I’m currently working at !
 -   🌱 I’m Full-time learner 
 -   👯 I’m looking always to expand my knowledge and skills
--   🥅 2022 Goals: Learn Build Learn
+-   🥅 2024 Goals: Learn Build Learn
 -   💬 Ask me about anything and everything
 -   🔭 Fun fact: I love astronomy
 
